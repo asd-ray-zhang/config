@@ -1,5 +1,5 @@
 {
-  "name": "my-client",
+  "name": "config-client",
   "profiles": ["master"],
   "label": null,
   "version": "9bace30e907ff34dc2ce377ceb7831278c856455",
