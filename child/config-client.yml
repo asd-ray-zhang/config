@@ -7,7 +7,7 @@
     {
       "name": "https://git.oschina.net/gongxusheng/spring-config-demo.git
         /my-sample-config/my-client.yml",
-      "source": {"my-config.appName": "my-app"}
+      "source": {"config-config.appName": "my-app"}
     }
   ]
 }
